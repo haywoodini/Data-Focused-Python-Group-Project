@@ -41,19 +41,13 @@ https://www.youtube.com/watch?v=2d-EXlcowng**
    Data_Pipeline_Amazon.py
    Data_Pipeline_Reddit.py
 
-5. After obtaining the required data, we also wrote a database buiding and data upload scipts in the files.
-   It is been encapsulated into our main_launcher file.
-   
-   ----- Do not Recommend to Run -----
-   DB_buidling.py
-
-6. After the preparations are done, we have our ui file as the final product output, in the file folder named as prototype_ui.py
+5. After the preparations are done, we have our ui file as the final product output, in the file folder named as prototype_ui.py
    It is also been encapsulated into our main_launcher file.
 
    ----- Do not Recommend to Run -----
    prototype_ui.py
 
-**7. To open our product, you can access to our main_launcher file, to execute the main product
+**6. To open our product, you can access to our main_launcher file, to execute the main product
      a. Lauch the main_launcher.py file in an IDE environment, using Pycharm as an example![82122af0cfc53092b0e1e6e3865a90d](https://github.com/user-attachments/assets/39802205-c86c-4387-b7d6-a3d4be3301ab)
      b. You will be directed to our product page opening in your default web browser![image](https://github.com/user-attachments/assets/3622fc34-5278-430f-ba65-2927ba0bcb91)
      c. The ide enviroment will show your connection ip and status![image](https://github.com/user-attachments/assets/b795834c-a271-4eac-8c87-d8c45bd3f448)**
