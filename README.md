@@ -18,6 +18,9 @@ If not, open the terminal and !pip install[package name] first!!**
 **Demostration Video Link: 
 https://www.youtube.com/watch?v=2d-EXlcowng**
 
+**Github Repository: 
+https://github.com/haywoodini/Data-Focused-Python-Group-Project**
+
 
 1. Firstly Download our zip file and load to a repository that you want, which we name here **'download_repository'**
 
